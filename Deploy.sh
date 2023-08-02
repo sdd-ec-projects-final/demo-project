@@ -1,4 +1,1 @@
-This line is updated now
-This is very simple java projec
-
-t
+This is very simple java project
